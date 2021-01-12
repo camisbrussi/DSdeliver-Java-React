@@ -1,7 +1,7 @@
 <h2 align="center"> DevSuperior Week  2.0 </h2>
 
 
-![image](https://user-images.githubusercontent.com/40186019/104357544-18cc7680-54ec-11eb-8d36-b18d57a333ed.png)
+![image](https://user-images.githubusercontent.com/40186019/104381810-d155e280-550b-11eb-91bf-35ded74cba47.png)
 ![Sem título](https://user-images.githubusercontent.com/40186019/104359940-128bc980-54ef-11eb-9dcc-1f56383c7607.png)
 
 ## Technologies
